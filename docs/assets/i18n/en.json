@@ -1,0 +1,178 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_English_Mouhib.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "A <span class='underline'>graduate in computer science</span> and a <span class='underline'>master M2 in Data Science</span> I am <span class='underline'>Capable</span > quickly grasp new technical concepts and use them effectively.",
+    "<span class='underline'>I have worked</span> on many <span class='underline'>projects</span> on <span class='underline'>Web</span> , <span class='underline'>Software</span> and <span class='underline'>Mobile</span> and pushed my self to the limit to get more and more information.",
+    "Some of the technologies I have trained and worked on include (but are not limited to):"
+  ],
+
+
+  "Experience.Title": "Expérience",
+  "Experience.Jobs": [
+    {
+      "Tab": "FTD",
+      "TabLong": "Fondation Tunisie Pour le Dévelopement",
+      "Title": "Internship Full Stack Developer",
+      "Date": "October 2022 - December 2022",
+      "Description": [
+        "Build a web app Named Supportini.",
+        "Implement continuous improvements, work on the frontend and backend.",
+        "Creation of platforms with Angular, ExpressJS, Bootstrap, programmed with functional, reactive and object-oriented programming paradigms.",
+        "<span style='competance'>Skills </span> Used : <span class ='underline'>Angular</span> <span class ='underline'> &#124 NodeJS</span> <span class ='underline'>&#124 ExpressJS</span> <span class ='underline'>&#124 CSS &#124 SCSS</span> <span class ='underline'>&#124 JavaScript &#124 TypeScript</span>."
+      ]
+    },
+    {
+      "Tab": "FTD",
+      "TabLong":"Fondation Tunisie Pour le Dévelopement",
+      "Title": "Internship Développeur logiciels",
+      "Date": "August 2022 - October 2022",
+      "Description": [
+        "Development of a Desktop Application.",
+        "Designing an application using JavaFX and CSS",
+        "<span style='competance'>Skills </span> Used : <span class ='underline'>Java</span> <span class ='underline'> &#124 JavaFX</span> <span class ='underline'>&#124 CSS</span>."
+      ]
+    },
+    {
+      "Tab": "SOMECA",
+      "TabLong":"SOMECA",
+      "Title": "Internship FullStack developer",
+      "Date": "July 2019 - September 2019",
+      "Description": [
+        "Build a website for the entreprise",
+        "Project management",
+        "Development of small fixes or features",
+        "<span style='competance'>Skills </span> Used : <span class ='underline'>Java</span> <span class ='underline'> &#124 JavaFX</span> <span class ='underline'>&#124 CSS</span>."
+
+      ]
+    }
+
+  ],
+
+
+
+
+  "Education.Title": "Education",
+  "Education.edu": [
+    {
+      "Tab": "Education",
+      "SchoolName": "Centre Elife Kef Esprit",
+      "Title": "Certification Of Qualification and Competancy",
+      "Date": "Mars 2022 - December 2022",
+      "Link": "https://fondationtunisie.org/program-elife",
+      "Description": [
+        " Certification On Qualification as Software and Full Stack JS Developer "
+      ]
+    },
+    {
+      "Tab": "Master in Information System and Web (DATA SCIENCE)",
+      "SchoolName": "Higher Institute of Computer Science",
+      "Title": "Master in Information System and Web (DATA SCIENCE)",
+      "Date": "September 2020 - Present",
+      "Link": "http://www.isikef.rnu.tn/Fr/image.php?id=2256",
+      "Description": [
+        "Research Master M2 For Data Science , Artifical Intelligence "
+      ]
+    },
+    {
+      "Tab": "Bachelor of Science in Computer Science",
+      "SchoolName": "ISSAT",
+      "Title": "Bachelor of Science in Computer Science",
+      "Date": "September 2017 - July 2020",
+      "Link": "https://issatkas.rnu.tn/",
+      "Description": [
+        "Computer Science Degree as Full Stack Web Developper"
+      ]
+    },
+    {
+      "Tab": "High School Diploma of Computer Science",
+      "SchoolName": "Technical High School",
+      "Title": "High School Diploma of Computer Science",
+      "Date": "September 2016 - July 2017",
+      "Link": "",
+      "Description": [
+        "Final Year High School Diploma With Good Rate"
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Supportini Web",
+      "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable Calendar</span>, and <span class='underline'>user management</span>. Where Coach and Trainer can Have a contact with eacher other.",
+      "imgs": [
+        "assets/images/supportini/logoSupportini.png",
+        "assets/images/supportini/supp1.png",
+        "assets/images/supportini/supp2.png",
+        "assets/images/supportini/supp3.png",
+        "assets/images/supportini/supp4.png",
+        "assets/images/supportini/supp5.png",
+        "assets/images/supportini/supp6.png",
+        "assets/images/supportini/supp7.png"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Supportini-Web",
+      "Technologies": [
+        "Angular",
+        "NodeJS",
+        "ExpressJS",
+        "CSS"
+      ]
+    },
+    {
+      "Title": "Supportini Desktop",
+      "Description":"Desktop Application <span class='underline'>Supportini</span> that facilitates the connection between trainers and coaches in order to provide continuous monitoring of their physical condition and to organise their planning.",
+      "imgs": [
+        "assets/images/supportini/logoSupportini.png",
+        "assets/images/supportini/supportiniDesk/desk1.png"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Supportini-Desktop",
+      "Technologies": [
+        "JAVA",
+        "JAVAFX",
+        "CSS"
+      ]
+    },
+    {
+      "Title": "CURE",
+      "Description": "CURE is an <span class='underline'>Android App</span> that facilate the life for the human it can give many Services like <span class='underline'> Nearby Hospitals</span>, <span class='underline'> Medical Treatment</span>, <span class='underline'> News About medicaments</span>, <span class='underline'> Alarm Reminder For Medicament Time</span>, <span class='underline'> Contact With Doctors and Filter Doctors Speciality </span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+      "imgs": [
+        "assets/images/cure/Cure Logo.png",
+        "assets/images/cure/cure1.jpg",
+        "assets/images/cure/cure2.jpg",
+        "assets/images/cure/cure3.jpg",
+        "assets/images/cure/cure4.jpg",
+        "assets/images/cure/cure5.jpg",
+        "assets/images/cure/cure6.jpg",
+        "assets/images/cure/cure7.jpg",
+        "assets/images/cure/cure8.jpg",
+        "assets/images/cure/cure9.jpg",
+        "assets/images/cure/cure10.jpg",
+        "assets/images/cure/cure11.jpg",
+        "assets/images/cure/cure12.jpg"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Cure-Mobile-App-Android",
+      "Technologies": [
+        "JAVA",
+        "Kotlin",
+        "XML",
+        "Android Studio"
+      ]
+    }
+  ],
+
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello",
+
+  "footer": "Built WIth Angular By © Med Mouhib Hayouni"
+}
