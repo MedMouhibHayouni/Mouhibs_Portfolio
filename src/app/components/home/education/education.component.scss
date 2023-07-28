@@ -1,0 +1,103 @@
+@import "./../../../../variables.scss";
+
+.education {
+
+}
+
+::ng-deep .education .education-tabs {
+  display: flex;
+
+  .tab-content{
+    margin-left: 0px;
+  }
+
+  ul{
+    display: block;
+    border: none;
+  }
+  ul{
+    list-style: none;
+  }
+
+  li::before {content: "✽"; color: $Green;
+    display: inline-block; width: 5em;
+    margin-left: -1em}
+
+  a:hover{
+    background-color: $LightNavy !important;
+    color: $Green !important;
+    border-color: transparent !important;
+    border-radius: 0px;
+  }
+
+  li{
+    border-left: 2px solid $LightestNavy;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: rgb(48, 60, 85);
+
+  }
+}
+
+.education{
+
+  max-width: 73%;
+  margin: auto;
+
+  .title-tab-content{
+    color: $LightestSlate;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 5px;
+
+    .company-tab-content{
+      color: $Green;
+    }
+  }
+
+  .education-time{
+    font-family: $CodeFont;
+    font-size: 13px;
+    font-weight: normal;
+    -webkit-letter-spacing: 0.05em;
+    -moz-letter-spacing: 0.05em;
+    -ms-letter-spacing: 0.05em;
+    letter-spacing: 0.05em;
+    color: $LightSlate;
+  }
+
+  .education-description{
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 18px;
+
+    &:before {
+      content: '▹';
+      position: absolute;
+      left: 0;
+      color: $Green;
+    }
+  }
+}
+
+
+
+@media (max-width: 133px) {
+  .education {
+    ::ng-deep .education-tabs {
+      display: block !important;
+
+      .tab-content {
+        margin-left: 0px !important;
+      }
+
+      ul {
+        display: block;
+        max-width: 10% !important;
+        margin-bottom: 50px;
+      }
+    }
+  }
+}
+

@@ -1,0 +1,171 @@
+{
+  "Header.Item1": "A propos de moi",
+  "Header.Item2": "Expérience",
+  "Header.Item3": "Education",
+  "Header.Item4": "Projets",
+  "Header.Item5": "Contact",
+  "Header.cvBtn": "CV",
+  "Header.cvName": "CV_French_Mouhib.pdf",
+  "Banner.Pretitle": "Bonjour ! Mon nom est",
+  "Banner.Description": "Tengo <span class='underline'>4 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y en ocaciones en <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
+  "Banner.ActionBtn": "Salue-moi.",
+  "AboutMe.Title": "A propos de moi",
+  "AboutMe.Paragraphs": [
+    "Un <span class='underline'>diplômé en informatique</span> et un <span class='underline'>master M2 en Data Science</span> Je suis <span class='underline'>Capable</span> de saisir rapidement de nouveaux concepts techniques et de les utiliser de manière efficace.",
+    "<span class='underline'> J'ai Travailler </span> sur des nombreux <span class='underline'>projets</span> sur <span class='underline'>Web </span> , <span class='underline'> Logiciels </span> et <span class='underline'> Mobile </span> et j'ai poussé mon moi à la limite pour obtenir de plus en plus d'informations.",
+    "Certaines des technologies sur lesquelles j'ai formé et travaillé comprennent (mais ne sont pas limitées à) :"
+  ],
+  "Experience.Title": "Expérience",
+  "Experience.Jobs": [
+    {
+      "Tab": "FTD",
+      "TabLong": "Fondation Tunisie Pour le Dévelopement",
+      "Title": "Stage Developpeur Full Stack",
+      "Date": "Octobre 2022 - Decembre 2022",
+      "Description": [
+        "Développement d'une Application Web.",
+        "Mettre en œuvre des améliorations continues, travailler sur le frontend et le backend.",
+        "Création de plateformes avec Angular, ExpressJS, Bootstrap, programmées avec des paradigmes de programmation fonctionnelle, réactive et orientée objet.",
+        "<span style='competance'>Compétance </span> Utilisé : <span class ='underline'>Angular</span> <span class ='underline'> &#124 NodeJS</span> <span class ='underline'>&#124 ExpressJS</span> <span class ='underline'>&#124 CSS &#124 SCSS</span> <span class ='underline'>&#124 JavaScript &#124 TypeScript</span>."
+      ]
+    },
+    {
+      "Tab": "FTD",
+      "TabLong": "Fondation Tunisie Pour le Dévelopement",
+      "Title": "Stage Développeur logiciels",
+      "Date": "Aout 2022 - Octobre 2022",
+      "Description": [
+        "Développement d'une Application Desktop.",
+        "Conception d'une application à l'aide de JavaFX et CSS",
+        "<span style='competance'>Compétance </span> Utilisé : <span class ='underline'>Java</span> <span class ='underline'> &#124 JavaFX</span> <span class ='underline'>&#124 CSS</span>."
+      ]
+    },
+    {
+      "Tab": "SOMECA",
+      "TabLong": "SOMECA",
+      "Title": "Stage Developpeur Full Stack",
+      "Date": "Juillet 2019 - September 2019",
+      "Description": [
+        "Développer un site web pour l’entreprise",
+        "Pilotage d'un projet",
+        "Développement de petits fixes ou de petites fonctionnalités",
+        "<span style='competance'>Compétance </span> Utilisé : <span class ='underline'>Angular</span> <span class ='underline'> &#124 NodeJS</span> <span class ='underline'>&#124 ExpressJS</span> <span class ='underline'>&#124 CSS &#124 SCSS</span> <span class ='underline'>&#124 JavaScript &#124 TypeScript</span>."
+      ]
+    }
+  ],
+  "Education.Title": "Éducation",
+  "Education.edu": [
+    {
+      "Tab": "Éducation",
+      "SchoolName": "Centre Elife Kef Esprit",
+      "Title": "Certification de qualification et de compétence",
+      "Date": "Mars 2022 - Décembre 2022",
+      "Link": "https://fondationtunisie.org/program-elife",
+      "Description": [
+        " Certification sur la qualification en tant que développeur de logiciels et Full Stack JS "
+      ]
+    },
+    {
+      "Tab": "Master en Système d'Information et Web (DATA SCIENCE)",
+      "SchoolName": "Institut Supérieur d'Informatique",
+      "Title": "Master en Système d'Information et Web (DATA SCIENCE)",
+      "Date": "Octobre 2020 - Juin 2023",
+      "Link": "http://www.isikef.rnu.tn/Fr/image.php?id=2256",
+      "Description": [
+        "Master Recherche M2 Data Science, Intelligence Artificielle"
+      ]
+    },
+    {
+      "Tab": "Licence Fondamentale en Science Informatique et Multimédia",
+      "SchoolName": "ISSAT",
+      "Title": "Licence Fondamentale en Science Informatique et Multimédia",
+      "Date": "Septembre 2017 - Juillet 2020",
+      "Link": "https://issatkas.rnu.tn/",
+      "Description": [
+        "Diplôme d'informatique en tant que développeur Web Full Stack"
+      ]
+    },
+    {
+      "Tab": "Diplôme d'études secondaires en informatique",
+      "SchoolName": "Lycée technique",
+      "Title": "Diplôme d'études secondaires en informatique",
+      "Date": "Septembre 2016 - Juillet 2017",
+      "Link": "",
+      "Description": [
+        "Diplôme d'études secondaires de dernière année avec un bon taux"
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Supportini Web",
+      "Description": "Application de surveillance créée à partir de zéro avec module d'authentification, <span class='underline'>graphiques configurables</span>, <span class='underline'>calendrier configurable</span> et <span class='underline'>gestion des utilisateurs </span> aussi que <span class='underline'>gestion des Suivis </span>. Où l'entraîneur et l'entraîneur peuvent avoir un contact les uns avec les autres.",
+      "imgs": [
+        "assets/images/supportini/logoSupportini.png",
+        "assets/images/supportini/supp1.png",
+        "assets/images/supportini/supp2.png",
+        "assets/images/supportini/supp3.png",
+        "assets/images/supportini/supp4.png",
+        "assets/images/supportini/supp5.png",
+        "assets/images/supportini/supp6.png",
+        "assets/images/supportini/supp7.png"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Supportini-Web",
+      "Technologies": [
+        "Angular",
+        "NodeJS",
+        "ExpressJS",
+        "CSS"
+      ]
+    },
+    {
+      "Title": "Supportini Desktop",
+      "Description": "Application de bureau <span class='underline'>Supportini</span> qui facilite la connexion entre les entraîneurs et les entraîneurs afin d'assurer un suivi continu de leur condition physique et d'organiser leur planification.",
+      "imgs": [
+        "assets/images/supportini/logoSupportini.png",
+        "assets/images/supportini/supportiniDesk/desk1.png"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Supportini-Desktop",
+      "Technologies": [
+        "JAVA",
+        "JAVAFX",
+        "CSS"
+      ]
+    },
+    {
+      "Title": "CURE",
+      "Description": "CURE est une <span class='underline'>application Android</span> qui facilite la vie de l'humain, elle peut offrir de nombreux services comme <span class='underline'> les hôpitaux à proximité</span>, <span class= 'underline'> Traitement médical</span>, <span class='underline'> Actualités sur les médicaments</span>, <span class='underline'> Rappel d'alarme pour l'heure du médicament</span>, <span class=' underline'> Contacter les médecins et filtrer la spécialité des médecins </span>, <span class='underline'>alarmes configurables</span>, <span class='underline'>gestion des utilisateurs</span> et <span class= 'underline'>géolocalisation avec openlayers.</span>",
+      "imgs": [
+        "assets/images/cure/Cure Logo.png",
+        "assets/images/cure/cure1.jpg",
+        "assets/images/cure/cure2.jpg",
+        "assets/images/cure/cure3.jpg",
+        "assets/images/cure/cure4.jpg",
+        "assets/images/cure/cure5.jpg",
+        "assets/images/cure/cure6.jpg",
+        "assets/images/cure/cure7.jpg",
+        "assets/images/cure/cure8.jpg",
+        "assets/images/cure/cure9.jpg",
+        "assets/images/cure/cure10.jpg",
+        "assets/images/cure/cure11.jpg",
+        "assets/images/cure/cure12.jpg"
+      ],
+      "ghLink": "https://github.com/MedMouhibHayouni/Cure-Mobile-App-Android",
+      "Technologies": [
+        "JAVA",
+        "Kotlin",
+        "XML",
+        "Android Studio"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "Et Maintenant?",
+  "Contact.Title": "Contacter Moi!",
+  "Contact.Content": "Je serai heureux de recevoir votre contact si vous souhaitez parler de nouvelles opportunités. Écrivez-moi, et je vous répondrai dès que je verrai votre message.",
+  "Contact.Btn": "Contacter Moi",
+
+  "footer": "Construit avec Angular par © Med Mouhib Hayouni"
+
+}

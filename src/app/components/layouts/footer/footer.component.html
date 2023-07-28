@@ -1,0 +1,26 @@
+<footer>
+    <div [@animateFooter]>
+        <ul class="footer-left-bar d-none d-md-block">
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_github", "footer", "github")' href="https://github.com/MedMouhibHayouni" target='_blank'>
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_linkedin", "footer", "github")' href="https://www.linkedin.com/in/mohamed-mouhib-hayouni" target='_blank'>
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+            </li>
+        </ul>
+        <div class="footer-right-bar d-none d-md-block">
+            <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "footer", "email")' href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=m.m.hayouni@gmail.com" target='_blank'>m.m.hayouni@gmail.com </a>
+        </div>
+    </div>
+
+    <div class="footer-credits text-center" >
+        <a (click)='analyticsService.sendAnalyticEvent("click_github_Porfolio_Design", "footer", "click")' href="https://github.com/MedMouhibHayouni/Portfolio_Design" target="_blank" rel="nofollow noopener noreferrer">
+            <div>{{"footer"| translate}}</div>
+        </a>
+    </div>
+
+</footer>

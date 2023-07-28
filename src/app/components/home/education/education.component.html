@@ -1,0 +1,26 @@
+<section class="section education" id='education'>
+  <div class="container">
+    <div class="section-box">
+      <div class="about-title" data-aos="fade-up" data-aos-duration="1000">
+        <h3 class="e-font section-title">
+          <span class='code-font n-section-title'>03.</span> {{"Education.Title" | translate}}
+        </h3>
+      </div>
+      <div class="education-tabs" data-aos="fade-up" data-aos-duration="1000" >
+        <ul  class="nav-tabs education-tabs" orientation="vertical">
+          <li *ngFor='let job of "Education.edu" | translate; let i = index'>
+            <div style="width: 900px">
+              <h4 class='title-tab-content m-3'>{{job.Title}} | <a class="company-tab-content m-3" [href]="job['Link']" target="_blank"> {{job.SchoolName}}</a></h4>
+              <h5 class="education-time m-3">{{job.Date}}</h5>
+              <!-- {{job.Description | json}} -->
+<!--              <p *ngFor='let jobDescriptionParagraph of job.Description; let i = index' class="job-description"-->
+<!--                 [innerHTML]="jobDescriptionParagraph | translate"></p>-->
+            </div>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
